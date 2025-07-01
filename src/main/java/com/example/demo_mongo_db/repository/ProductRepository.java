@@ -1,4 +1,4 @@
-package com.example.demo_mongo_db.respository;
+package com.example.demo_mongo_db.repository;
 
 import com.example.demo_mongo_db.document.Product;
 import org.springframework.data.mongodb.repository.MongoRepository;
